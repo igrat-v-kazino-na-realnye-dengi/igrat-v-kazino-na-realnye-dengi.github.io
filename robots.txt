@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: igrat-v-kazino-na-realnye-dengi.github.io
+Sitemap: https://igrat-v-kazino-na-realnye-dengi.github.io/sitemap.xml
